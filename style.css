@@ -1,0 +1,30 @@
+body{
+    font-family: 'EB Garamond', serif;
+
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    margin:auto;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 18px;
+    font-style: italic;
+}
+.container{
+    width: 1270px;
+    margin:auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width: 28%;
+    margin: 30px;;
+    border: 2px solid black;
+
+}
